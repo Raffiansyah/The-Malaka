@@ -773,15 +773,15 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .bg-hero {
-  background-image: url('/public/asset/Group 27.svg');
+  background-image: url('public/asset/Group 27.svg');
 }
 
 .bg-book {
-  background-image: url('/public/asset/Rectangle 20.png');
+  background-image: url('public/asset/Rectangle 20.png');
 }
 
 .bg-foot {
-  background-image: url('/public/asset/Rectangle 643.png');
+  background-image: url('public/asset/Rectangle 643.png');
 }
 
 .bg-cover {
