@@ -7,9 +7,9 @@ module.exports = {
         secondary: '#EDFCFD'
       },
       backgroundImage: {
-        hero: "url('/public/asset/Group 27.svg')",
-        book: "url('/public/asset/Rectangle 20.png')",
-        foot: "url('/public/asset/Rectangle 643.png')"
+        hero: "url('/public/asset/Group27.svg')",
+        book: "url('/public/asset/Rectangle20.png')",
+        foot: "url('/public/asset/Rectangle643.png')"
       }
     },
   },
